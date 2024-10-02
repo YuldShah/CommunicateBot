@@ -1,4 +1,7 @@
-# Communicate Bot
+<h1 align="center">
+  Communicate Bot
+</h1>
+
 An aiogram bot to connect users with admin
 
 ## How to setup your own bot:
